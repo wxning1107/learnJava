@@ -1,4 +1,4 @@
-package com.qingtingfm.learnJava;
+package com.java.learnJava;
 
 public class Method {
     public static void main(String[] args) {
